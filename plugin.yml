@@ -1,0 +1,6 @@
+name: Sblog4jhim
+version: '${project.version}'
+main: com.sblog4jhim.sblog4jhim.Sblog4jhim
+api-version: 1.17
+authors: [ him ]
+description: log4j？给我去死
